@@ -8,6 +8,8 @@
     --Antony Jr
 
 
+**IMPORTANT:** Please note that https://github.com/deathsec/instagram-py repo is a fork and not me!
+
 .. image:: https://img.shields.io/github/issues/antony-jr/instagram-py.svg?style=flat-square   
       :target: ../../issues
 
